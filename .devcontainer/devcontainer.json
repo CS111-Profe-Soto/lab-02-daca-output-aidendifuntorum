@@ -12,7 +12,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"vscjava.vscode-java-test"
+				"vscjava.vscode-java"
 			]
 		}
 	}

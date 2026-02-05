@@ -1,5 +1,7 @@
-import org.junit.Test.None;
-import com.puppycrawl.tools.checkstyle.checks.blocks.AvoidNestedBlocksCheck;
+//import org.junit.Test.None;
+// import com.puppycrawl.tools.checkstyle.checks.blocks.AvoidNestedBlocksCheck;
+// I put "//" infront of both imports because it was saying that it was causing errors. I'm not sure
+// what they do or why/when it stopped working.
 
 /**
  * The program quick-prints replacements for Employment Authorization Cards. This is necessary in case of someone losing their card or having it stolen.
